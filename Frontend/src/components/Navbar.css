@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #007bff;
+}
+
+.navbar .navbar-brand {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: white;
+  font-size: 1rem;
+  margin-right: 15px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #f8f9fa;
+}
+
+.navbar .btn-link {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar .btn-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .navbar .navbar-toggler {
+    border-color: white;
+  }
+}

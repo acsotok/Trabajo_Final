@@ -1,0 +1,14 @@
+.banner-container {
+  margin-top: 0;
+  margin-bottom: 10px;
+  overflow: hidden; 
+}
+
+.banner-container img {
+  width: 100%; 
+  height: auto;
+  border-radius: 0px;
+  object-fit: cover; 
+  max-height: 200px;
+}
+

@@ -1,0 +1,28 @@
+.home-container {
+    padding-top: 0px;
+  }
+  
+  .product-section {
+    margin-top: 30px;
+  }
+  
+  .product-section .row {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .product-section .col-md-4 {
+    margin-bottom: 20px;
+  }
+  
+  .text-center {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .text-center p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
