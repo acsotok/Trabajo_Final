@@ -6,4 +6,4 @@ Para levantar servidor: node index.js
 Para Frontend:
 
 Instalar dependencias: npm install
-Para levenatr fornt: nom run dev
+Para levenatr fornt: npm run dev
